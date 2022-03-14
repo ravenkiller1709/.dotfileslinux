@@ -1,0 +1,48 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "kim/")
+ ("/home/kim/.config/emacs/" . "exwm/")
+ ("/home/kim/.config/" . "emacs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/kim/.config/emacs/exwm/"
+ "/home/kim/"
+ "/home/kim/.config/emacs/"
+ "/home/kim/.gnupg/"
+ "/home/kim/.config/alacritty/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "start-exwm.sh"
+ ".authinfo.gpg"
+ ".mbsyncrc"
+ "init.el"
+ "gpg-agent.conf"
+ "desktop.el"
+ "alacritty.yml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/kim/.config/emacs/" (25134 22230 282478 175000) "ido.last" "ido.last~" ".mbsyncrc" ".mbsyncrc~" "init.el" "init.el~" "desktop.el" "desktop.el~" "history" ".last-package-update-day" "elpa/" "auto-save-list/" "exwm/" ".authinfo" "../" "./")
+
+ ("/home/kim/.config/" (25134 22046 435807 500000) "spotify/" "systemd/" "ncmpcpp/" "discord/" "epiphany/" "mimeapps.list" "BraveSoftware/" "mpd/" "fish/" "emacs/" "alacritty/" "gnome-session/" "dleyna-renderer-service.conf" "nautilus/" "gnome-boxes/" "gtk-3.0/" "goa-1.0/" "pulse/" "evolution/" "dconf/" "ibus/" "yay/" "user-dirs.dirs" "user-dirs.locale" "../" "./")
+
+ ("/home/kim/" (25134 21903 249137 759000) ".lyrics/" ".authinfo.gpg" ".authinfo.gpg~" ".mbsyncrc" ".mbsyncrc~" ".pki/" ".Xresources" "Mail/" ".mozilla/" ".password-store/" ".gnupg/" ".cache/" ".local/" "Videoklip/" "Billeder/" "Musik/" "Dokumenter/" "Offentligt/" "Skabeloner/" "Hentet/" "Skrivebord/" ".bash_history" ".dotfileslinux/" ".config/" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
+
+ ("/home/" (25132 51861 330380 383000) "kim/" "../" "./")
+
+ ("/home/kim/.gnupg/" (25133 36234 257695 66000) "gpg-agent.conf" "random_seed" "openpgp-revocs.d/" "trustdb.gpg" "pubring.kbx" "pubring.kbx~" "private-keys-v1.d/" "../" "./")
+
+ ("/home/kim/.config/emacs/exwm/" (25133 36183 94360 605000) "start-exwm.sh" "start-exwm.sh~" "desktop.el" "../" "./")
+
+ ("/home/kim/.config/alacritty/" (25133 3191 533517 203000) "alacritty.yml" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
