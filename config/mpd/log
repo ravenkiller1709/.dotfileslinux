@@ -26794,3 +26794,12 @@ Mar 13 21:37 : player: played "Band Of Horses - Cease to begin/01.Is There A Gho
 Mar 14 06:42 : exception: Failed to open /home/kim/.config/mpd/playlists: No such file or directory
 Mar 14 06:42 : exception: Failed to open /home/kim/.config/mpd/playlists: No such file or directory
 Mar 14 06:58 : player: played "Billie Eilish - Dont Smile At Me (Deluxe Edition)/02.Idontwannabeyouanymore.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Mar 15 06:54 : player: played "Billie Eilish - Dont Smile At Me (Deluxe Edition)/02.Idontwannabeyouanymore.mp3"
+Mar 15 20:29 : player: played "Billie Eilish - Dont Smile At Me (Deluxe Edition)/02.Idontwannabeyouanymore.mp3"
+Mar 15 21:00 : player: played "Billie Eilish - Dont Smile At Me (Deluxe Edition)/02.Idontwannabeyouanymore.mp3"
+Mar 15 21:01 : player: played "Billie Eilish - Dont Smile At Me (Deluxe Edition)/02.Idontwannabeyouanymore.mp3"
