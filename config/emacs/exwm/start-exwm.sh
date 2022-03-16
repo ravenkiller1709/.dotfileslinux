@@ -2,6 +2,7 @@
 # Set the screen DPI (uncomment this if needed!)
 xrdb ~/.Xresources
 
+xsetroot -cursor_name left_ptr &
 setxkbmap dk &
 
 # Run the screen compositor
